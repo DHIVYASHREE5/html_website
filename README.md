@@ -1,2 +1,82 @@
 # html_website
-HTML Website
+<html>
+<head>
+
+<h1 >
+<p align="center"> THE VAMPIRE DIARIES</p></h1>
+
+</head>
+
+<body style="background-color:powderblue;">
+<img src="vampire_diaries.jpg"  width="400" height="500" >
+
+
+
+<a href="https://www.youtube.com/watch?v=BmVmhjjkN4E"</a>
+<h4>
+<p align="left"> TVD season 1</p></h4>
+
+<a href="https://www.youtube.com/watch?v=5Wn-MaO7HQA"</a>
+<h4>
+<p align="left"> TVD season 2</p></h4>
+
+<a href="https://www.youtube.com/watch?v=3_qCt2own9A"</a>
+<h4>
+<p align="left"> TVD season 3</p></h4>
+
+<a href="https://www.youtube.com/watch?v=4FPP4YE5N-8"</a>
+<h4>
+<p align="left"> TVD season 4</p></h4>
+
+<a href="https://www.youtube.com/watch?v=m7BNs9d8Yns"</a>
+<h4>
+<p align="left"> TVD season 5</p></h4>
+
+<a href="https://www.youtube.com/watch?v=MmLdzHLH2wE"</a>
+<h4>
+<p align="left"> TVD season 6</p></h4>
+
+<a href="https://www.youtube.com/watch?v=0vHWYuyfQ5g"</a>
+<h4>
+<p align="left"> TVD season 7</p></h4>
+
+<a href="https://www.youtube.com/watch?v=ybmeu7mnm58"</a>
+<h4>
+<p align="left"> TVD season 8</p></h4></br>
+
+
+<a href="https://www.google.com/search?sca_esv=598035976&rlz=1C1JZAP_enIN968IN968&sxsrf=ACQVn0-iHZkb0DxVQUPo5T5OLsMYPIloUw:1705123153266&q=Cast+of+The+Vampire+Diaries&uds=AMwkrPtiZhdkWPgSUr70CpjdOJM2VSMVoPp9JBaN7bd7QN_FpQLUUf6YQ35aLAX_fmC3UW3b6QgvV-8qcSPXHdHLnlUDrISIzPIsRwalSsZM5fK3KcdYcHyTEGYtIkBbaP3rKw4QgwTD&sa=X&ved=2ahUKEwi9zeTeztmDAxUxSWwGHSIHDDMQxKsJegQIDhAB&ictx=0&biw=1536&bih=695&dpr=1.25"</a>
+<h1>
+<p align="center"> TVD Cast</p></h1>
+
+<a href="https://en.wikipedia.org/wiki/Nina_Dobrev"</a>
+<h3 style="color:blue;">  Nina Dobrev as Elena/Katherine/Tatia/ Amara</h3>
+
+<a href="https://en.wikipedia.org/wiki/Ian_Somerhalder"</a>
+<h3 style="color:blue;">   Ian Somerhalder as Damon</h3>
+
+<a href="https://en.wikipedia.org/wiki/Paul_Wesley"</a>
+<h3 style="color:blue;">   Paul Wesley as Stefan/Tom/Silas</h3>
+
+
+<a href="https://en.wikipedia.org/wiki/Candice_King"</a>
+<h3 style="color:blue;">  Candice King as Caroline Forbes</h3>
+
+
+
+<a href="https://www.google.com/search?sca_esv=598035976&rlz=1C1JZAP_enIN968IN968&sxsrf=ACQVn090iZxg0G888PnvCQVMb55ZLRg1tg:1705122327221&q=vampire+diaries+poster+hd&tbm=isch&source=univ&fir=l1xr8tzBoDiBVM%252CwWNTltX1IWxnbM%252C_%253BpKz7BzU68W6a_M%252CgTH5SWPJsd6rbM%252C_%253BRkYO9IUyxOIIYM%252CAtVKtPoxc5HAwM%252C_%253B81wQUIqTMLpYJM%252CmqN-O2rWoG8vIM%252C_%253BkOeLKRr_1X7VTM%252CYknrixG6vi0nVM%252C_%253BUtSRQDZoGVHtrM%252Cp3-E7X0NojP9rM%252C_%253BGKOJtM5kBYhb-M%252CMqtjSIMYYGOzmM%252C_%253BVPvPFO6BbSsZRM%252CfL_RvUhRltJygM%252C_%253BRE0WmwNSpTr1vM%252CRSe2WInVcfcKXM%252C_%253B1L23mW3N4gDt6M%252Cbd_-A_zL0dy_yM%252C_%253BurJj-4SUActdFM%252CkaV4POCuncmV_M%252C_%253BxFLY3oS0WsPD-M%252CKgFTbHkkXIRdzM%252C_%253BkexHUTz_eESTBM%252CVM69lISsY4IPdM%252C_%253BBPpeO_z4IH-HRM%252CYpPccCgnIyK05M%252C_%253B15Payh1E1XzEYM%252CtjnX5Ax4h2vrzM%252C_%253BrJy2i6-ch7kzMM%252C0IiTyY0HOWL2JM%252C_%253BFpj2ggmIpd9NTM%252Cq_Ftt6t2dUwZfM%252C_%253B2KMv3bY31FSUHM%252CKJY-2wzK6lLx1M%252C_%253Buc4kI_pMKHdO1M%252CoTGOcWATvMfylM%252C_%253BoYP7KDTEi4Hk7M%252C8Wo0FC1A9hYfKM%252C_%253BPGH1cKErBJhtoM%252Ca3hMJWqouzj3zM%252C_%253BT6SPVpnADdpV6M%252C-DWe5orlF576qM%252C_%253BafCJWrJxS4kYUM%252CX3eOAGiWtDUM1M%252C_&usg=AI4_-kSEvuwyjlf134Aar8PnWW6mc-QUWg&sa=X&ved=2ahUKEwiD_PLUy9mDAxXixTgGHWiaDZIQ7Al6BAgOEHU&biw=1536&bih=695&dpr=1.25"</a>
+<h1>
+<p align="center"> TVD Images</p></h1>
+
+
+
+</br>
+<marquee>
+<a href="https://in.pinterest.com/pin/748230925595540972/"</a>
+<img src="delena1.jpg"  width="200" height="300"></h3></br>
+</marquee>
+
+
+</body>
+
+</html>
